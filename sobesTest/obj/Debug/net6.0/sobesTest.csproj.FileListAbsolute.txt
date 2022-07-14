@@ -1,0 +1,15 @@
+C:\Users\vladislav\source\repos\sobesTest\sobesTest\bin\Debug\net6.0\sobesTest.exe
+C:\Users\vladislav\source\repos\sobesTest\sobesTest\bin\Debug\net6.0\sobesTest.deps.json
+C:\Users\vladislav\source\repos\sobesTest\sobesTest\bin\Debug\net6.0\sobesTest.runtimeconfig.json
+C:\Users\vladislav\source\repos\sobesTest\sobesTest\bin\Debug\net6.0\sobesTest.dll
+C:\Users\vladislav\source\repos\sobesTest\sobesTest\bin\Debug\net6.0\sobesTest.pdb
+C:\Users\vladislav\source\repos\sobesTest\sobesTest\obj\Debug\net6.0\sobesTest.csproj.AssemblyReference.cache
+C:\Users\vladislav\source\repos\sobesTest\sobesTest\obj\Debug\net6.0\sobesTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladislav\source\repos\sobesTest\sobesTest\obj\Debug\net6.0\sobesTest.AssemblyInfoInputs.cache
+C:\Users\vladislav\source\repos\sobesTest\sobesTest\obj\Debug\net6.0\sobesTest.AssemblyInfo.cs
+C:\Users\vladislav\source\repos\sobesTest\sobesTest\obj\Debug\net6.0\sobesTest.csproj.CoreCompileInputs.cache
+C:\Users\vladislav\source\repos\sobesTest\sobesTest\obj\Debug\net6.0\sobesTest.dll
+C:\Users\vladislav\source\repos\sobesTest\sobesTest\obj\Debug\net6.0\refint\sobesTest.dll
+C:\Users\vladislav\source\repos\sobesTest\sobesTest\obj\Debug\net6.0\sobesTest.pdb
+C:\Users\vladislav\source\repos\sobesTest\sobesTest\obj\Debug\net6.0\sobesTest.genruntimeconfig.cache
+C:\Users\vladislav\source\repos\sobesTest\sobesTest\obj\Debug\net6.0\ref\sobesTest.dll
